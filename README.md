@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:1a4fa0,100:1f6feb&height=200&section=header&text=Gabriel%20Winstead&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descSize=17&descColor=c9d1d9&descAlignY=62&animation=fadeIn" alt="Gabriel Winstead banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:1a4fa0,100:1f6feb&height=170&section=header&text=Gabriel%20Winstead&fontSize=52&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Gabriel Winstead banner" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://gabrielwinstead.com/portfolio">
@@ -31,11 +31,20 @@
 
 I'm a first-year Computer Science student focused on **shipping functional work**, **improving architecture**, and **refining implementation quality** across web applications, desktop utilities, and software projects.
 
-| | |
-|---|---|
-| **Education** | Computer Science Freshman |
-| **Currently learning** | Systems programming, Kotlin, and software architecture |
-| **Open to** | Software engineering & IT internships and collaborative projects |
+<table>
+<tr>
+<td> <b>Education</b></td>
+<td>Computer Science Freshman</td>
+</tr>
+<tr>
+<td> <b>Currently learning</b></td>
+<td>Systems programming, Kotlin, and software architecture</td>
+</tr>
+<tr>
+<td> <b>Open to</b></td>
+<td>Software engineering &amp; IT internships and collaborative projects</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
 
@@ -110,6 +119,17 @@ Lightweight task tracking application focused on clean interface design and work
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=gabewinstead&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=gabewinstead&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
 
