@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-gabrielwinstead.com-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielwinstead.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gabrielwinstead.com-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielwinstead.com/portfolio)
 ![Profile Views](https://komarev.com/ghpvc/?username=gabewinstead&label=Profile%20Views&color=1f6feb&style=for-the-badge)
 
 </div>
@@ -22,10 +22,9 @@
 
 I'm a first-year Computer Science student focused on **shipping functional work**, **improving architecture**, and **refining implementation quality** across web applications, desktop utilities, and software projects.
 
-- 🎓 **Education:** Computer Science student @ UMGC (Expected 2030)
-- 🔭 **Currently building:** Spotify Lyrics Overlay — a desktop media visualizer built with Tauri, Rust, and TypeScript
-- 🌱 **Currently learning:** Systems programming, Kotlin, and software architecture
-- 💼 **Open to:** Software engineering & IT internships and collaborative projects
+- **Education:** Computer Science Freshman
+- **Currently learning:** Systems programming, Kotlin, and software architecture
+- **Open to:** Software engineering & IT internships and collaborative projects
 
 ---
 
@@ -60,7 +59,7 @@ Cross-platform desktop application providing dynamic real-time lyrics overlay an
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 
-[🔗 Website](https://gabrielwinstead.com) · [📂 Repository](https://github.com/gabewinstead)
+[🔗 Website](https://gabewinstead.github.io/SpxtifyMediaVisuals/)· [📂 Repository](https://github.com/gabewinstead/SpxtifyMediaVisuals)
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +72,7 @@ Modern, dark-mode portfolio and services platform built with responsive UI layou
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-[🔗 Live Site](https://gabrielwinstead.com) · [📂 Repository](https://github.com/gabewinstead)
+[🔗 Portfolio](https://gabrielwinstead.com/portfolio) [🔗 Photography Business](https://gabrielwinstead.com)
 
 </td>
 </tr>
