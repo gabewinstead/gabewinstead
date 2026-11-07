@@ -1,14 +1,14 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:1a4fa0,100:1f6feb&height=170&section=header&text=Gabriel%20Winstead&fontSize=52&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Gabriel Winstead banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:1a4fa0,100:1f6feb&height=140&section=header&text=Gabriel%20Winstead&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Gabriel Winstead banner" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://gabrielwinstead.com/portfolio">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=640&height=40&lines=CS+Freshman+building+software+%26+desktop+tools;Developing+in+Python%2C+TypeScript+%26+Kotlin;Learning+CS+fundamentals+%26+shipping+real+projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=30&lines=CS+Freshman+building+software+%26+desktop+tools;Developing+in+Python%2C+TypeScript+%26+Kotlin;Learning+CS+fundamentals+%26+shipping+real+projects" alt="Typing animation" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-gabrielwinstead.com-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielwinstead.com/portfolio)
