@@ -1,11 +1,11 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f6feb&height=200&section=header&text=Gabriel%20Winstead&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20%26%20UI%20Engineering&descSize=16&descAlignY=58" alt="Gabriel Winstead banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f6feb&height=200&section=header&text=Gabriel%20Winstead&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20%26%20Systems%20Development&descSize=16&descAlignY=58" alt="Gabriel Winstead banner" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://gabrielwinstead.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=First-year+CS+student+building+software;Python+%7C+TypeScript+%7C+React+%7C+Rust;Shipping+functional+work%2C+refining+quality" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=First-year+CS+student+building+software;Python+%7C+TypeScript+%7C+Kotlin;Shipping+functional+work%2C+refining+quality" alt="Typing animation" />
 </a>
 
 <br/>
@@ -20,11 +20,11 @@
 
 ## 👋 About Me
 
-I'm a first-year Computer Science student focused on **shipping functional work**, **improving architecture**, and **refining implementation quality** across web apps, desktop utilities, and backend systems.
+I'm a first-year Computer Science student focused on **shipping functional work**, **improving architecture**, and **refining implementation quality** across web applications, desktop utilities, and software projects.
 
 - 🎓 **Education:** Computer Science student @ UMGC (Expected 2030)
-- 🔭 **Currently building:** Spotify Lyrics Overlay — a desktop media visualizer built with Tauri, Rust, React, and TypeScript
-- 🌱 **Currently learning:** Systems programming with Rust, Kotlin, and AWS serverless
+- 🔭 **Currently building:** Spotify Lyrics Overlay — a desktop media visualizer built with Tauri, Rust, and TypeScript
+- 🌱 **Currently learning:** Systems programming, Kotlin, and software architecture
 - 💼 **Open to:** Software engineering & IT internships and collaborative projects
 
 ---
@@ -35,7 +35,7 @@ I'm a first-year Computer Science student focused on **shipping functional work*
 
 **Core Stack**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,react,tailwind,html,css&perline=7" alt="Core Languages and Frameworks" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,kotlin,html,css&perline=6" alt="Core Languages" />
 
 <br/>
 
@@ -57,7 +57,6 @@ I'm a first-year Computer Science student focused on **shipping functional work*
 Cross-platform desktop application providing dynamic real-time lyrics overlay and media visualizers.
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 
@@ -67,11 +66,11 @@ Cross-platform desktop application providing dynamic real-time lyrics overlay an
 <td width="50%" valign="top">
 
 ### 🔹 Personal Portfolio & Business Site
-Modern, dark-mode portfolio and services platform built with responsive UI components and custom styling.
+Modern, dark-mode portfolio and services platform built with responsive UI layout and custom styling.
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 [🔗 Live Site](https://gabrielwinstead.com) · [📂 Repository](https://github.com/gabewinstead)
