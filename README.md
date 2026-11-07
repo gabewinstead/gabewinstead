@@ -38,7 +38,7 @@ I'm a first-year Computer Science student focused on **shipping functional work*
 </tr>
 <tr>
 <td> <b>Currently learning</b></td>
-<td>Systems programming, Kotlin, and software architecture</td>
+<td>Systems programming, Python &amp; Kotlin, and software architecture</td>
 </tr>
 <tr>
 <td> <b>Open to</b></td>
