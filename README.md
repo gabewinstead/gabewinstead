@@ -1,11 +1,11 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f6feb&height=200&section=header&text=Gabriel%20Winstead&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20%26amp%3B%20Systems%20Development&descSize=16&descAlignY=58" alt="Gabriel Winstead banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f6feb&height=200&section=header&text=Gabriel%20Winstead&fontSize=48&fontColor=ffffff&fontAlignY=38" alt="Gabriel Winstead banner" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://gabrielwinstead.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=First-year+CS+student+building+software;Python+%7C+TypeScript+%7C+Kotlin;Shipping+functional+work%2C+refining+quality" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=CS+Freshman+building+software+%26+desktop+tools;Developing+in+Python%2C+TypeScript+%26+Kotlin;Learning+CS+fundamentals+%26+shipping+real+projects" alt="Typing animation" />
 </a>
 
 <br/>
