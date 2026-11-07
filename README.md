@@ -35,7 +35,7 @@ I'm a first-year Computer Science student focused on **shipping functional work*
 |---|---|
 | **Education** | Computer Science Freshman |
 | **Currently learning** | Systems programming, Kotlin, and software architecture |
-| 💼**Open to** | Software engineering & IT internships and collaborative projects |
+| **Open to** | Software engineering & IT internships and collaborative projects |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
 
@@ -110,8 +110,6 @@ Lightweight task tracking application focused on clean interface design and work
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
 
