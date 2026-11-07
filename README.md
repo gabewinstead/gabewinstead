@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f6feb&height=200&section=header&text=Gabriel%20Winstead&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20%26%20Systems%20Development&descSize=16&descAlignY=58" alt="Gabriel Winstead banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f6feb&height=200&section=header&text=Gabriel%20Winstead&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20%26amp%3B%20Systems%20Development&descSize=16&descAlignY=58" alt="Gabriel Winstead banner" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://gabrielwinstead.com">
@@ -59,7 +59,7 @@ Cross-platform desktop application providing dynamic real-time lyrics overlay an
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 
-[🔗 Website](https://gabewinstead.github.io/SpxtifyMediaVisuals/)· [📂 Repository](https://github.com/gabewinstead/SpxtifyMediaVisuals)
+[🔗 Website](https://gabewinstead.github.io/SpxtifyMediaVisuals/) · [📂 Repository](https://github.com/gabewinstead/SpxtifyMediaVisuals)
 
 </td>
 <td width="50%" valign="top">
@@ -72,37 +72,35 @@ Modern, dark-mode portfolio and services platform built with responsive UI layou
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-[🔗 Portfolio](https://gabrielwinstead.com/portfolio) [🔗 Photography Business](https://gabrielwinstead.com)
+[🔗 Portfolio](https://gabrielwinstead.com/portfolio) · [🔗 Photography Business](https://gabrielwinstead.com)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Hangeul Practice & Study Utility
-Custom Python terminal application for practicing Korean vocabulary, location terms, and day scheduling with interactive quizzing.
+### 🔹 Unit & Data Conversion Tool
+Utility application designed for fast, precise unit conversions and data formatting.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-[📂 Repository](https://github.com/gabewinstead)
+[📂 Repository](https://github.com/gabewinstead/Conversion)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 Workflow Macro & Automation Scripts
-Desktop automation tooling including keyboard macro controllers and automated execution scripts.
+### 🔹 Task & To-Do Management App
+Lightweight task tracking application focused on clean interface design and workflow organization.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-[📂 Repository](https://github.com/gabewinstead)
+[📂 Repository](https://github.com/gabewinstead/To-Do-List)
 
 </td>
 </tr>
 </table>
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -114,11 +112,11 @@ Desktop automation tooling including keyboard macro controllers and automated ex
 
 <div align="center">
 
-### 🤝 Let's Connect
+### Let's Connect
 
-I'm always open to new opportunities and technical conversations.
+I'm always open to opportunities!
 
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielwinstead.com)
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielwinstead.com/contact)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0f0f0f&height=100&section=footer" width="100%" alt="footer" />
 
