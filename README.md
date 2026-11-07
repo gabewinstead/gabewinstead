@@ -1,32 +1,43 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f6feb&height=200&section=header&text=Gabriel%20Winstead&fontSize=48&fontColor=ffffff&fontAlignY=38" alt="Gabriel Winstead banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:1a4fa0,100:1f6feb&height=200&section=header&text=Gabriel%20Winstead&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descSize=17&descColor=c9d1d9&descAlignY=62&animation=fadeIn" alt="Gabriel Winstead banner" width="100%"/>
 
 <!-- Typing animation -->
-<a href="https://gabrielwinstead.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=CS+Freshman+building+software+%26+desktop+tools;Developing+in+Python%2C+TypeScript+%26+Kotlin;Learning+CS+fundamentals+%26+shipping+real+projects" alt="Typing animation" />
+<a href="https://gabrielwinstead.com/portfolio">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=640&height=40&lines=CS+Freshman+building+software+%26+desktop+tools;Developing+in+Python%2C+TypeScript+%26+Kotlin;Learning+CS+fundamentals+%26+shipping+real+projects" alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-gabrielwinstead.com-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielwinstead.com/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gabrielwinstead.com-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielwinstead.com/portfolio)
+[![Contact](https://img.shields.io/badge/Contact-Get%20in%20Touch-0f0f0f?style=for-the-badge&logo=maildotru&logoColor=white)](https://gabrielwinstead.com/contact)
 ![Profile Views](https://komarev.com/ghpvc/?username=gabewinstead&label=Profile%20Views&color=1f6feb&style=for-the-badge)
+
+<!-- Quick nav -->
+<sub>
+<a href="#-about-me">About</a> &nbsp;•&nbsp;
+<a href="#%EF%B8%8F-tech-stack">Stack</a> &nbsp;•&nbsp;
+<a href="#-active-projects">Projects</a> &nbsp;•&nbsp;
+<a href="#-github-stats">Stats</a>
+</sub>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
 
 ## 👋 About Me
 
 I'm a first-year Computer Science student focused on **shipping functional work**, **improving architecture**, and **refining implementation quality** across web applications, desktop utilities, and software projects.
 
-- **Education:** Computer Science Freshman
-- **Currently learning:** Systems programming, Kotlin, and software architecture
-- **Open to:** Software engineering & IT internships and collaborative projects
+| | |
+|---|---|
+| **Education** | Computer Science Freshman |
+| **Currently learning** | Systems programming, Kotlin, and software architecture |
+| 💼**Open to** | Software engineering & IT internships and collaborative projects |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
 
 ## 🛠️ Tech Stack
 
@@ -34,17 +45,17 @@ I'm a first-year Computer Science student focused on **shipping functional work*
 
 **Core Stack**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,kotlin,html,css&perline=6" alt="Core Languages" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,kotlin,html,css&perline=6&theme=dark" alt="Core Languages" />
 
 <br/>
 
 **Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vite&perline=5&theme=dark" alt="Tools" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
 
 ## 🚀 Active Projects
 
@@ -100,15 +111,9 @@ Lightweight task tracking application focused on clean interface design and work
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
 
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=gabewinstead&theme=iceberg&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
 
 <div align="center">
 
@@ -118,6 +123,6 @@ I'm always open to opportunities!
 
 [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielwinstead.com/contact)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0f0f0f&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:1a4fa0,100:0b1d3a&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
