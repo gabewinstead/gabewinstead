@@ -88,8 +88,6 @@ Cross-platform desktop application providing dynamic real-time lyrics overlay an
 Modern, dark-mode portfolio and services platform built with responsive UI layout and custom styling.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 [🔗 Portfolio](https://gabrielwinstead.com/portfolio) · [🔗 Photography Business](https://gabrielwinstead.com)
@@ -119,17 +117,6 @@ Lightweight task tracking application focused on clean interface design and work
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=gabewinstead&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=gabewinstead&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,50:1f6feb,100:0b1d3a&height=2" width="100%" alt="divider"/>
 
