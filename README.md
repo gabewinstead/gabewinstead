@@ -19,7 +19,7 @@
 <sub>
 <a href="#-about-me">About</a> &nbsp;•&nbsp;
 <a href="#%EF%B8%8F-tech-stack">Stack</a> &nbsp;•&nbsp;
-<a href="#-active-projects">Projects</a> &nbsp;•&nbsp;
+<a href="#-active-projects">Projects</a> &nbsp;&nbsp;
 </sub>
 
 </div>
